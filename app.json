@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "tavlat",
-    "slug": "tavlat",
-    "description": "",
+    "name": "react-native-example-app",
+    "slug": "react-native-example-app",
+    "description": "react-native-example-app",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": ["ios", "android", "web"],

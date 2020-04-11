@@ -1,1 +1,1 @@
-# tavlat
+# react-native-example-app
